@@ -1,3 +1,4 @@
+"use client";
 import { RiArrowRightUpLine, RiCheckboxCircleFill } from "react-icons/ri";
 import PreTitle from "./PreTitle";
 import Image from "next/image";

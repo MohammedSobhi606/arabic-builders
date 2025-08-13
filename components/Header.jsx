@@ -1,10 +1,6 @@
 "use client";
 
-import {
-  RiArrowGoForwardFill,
-  RiArrowRightUpFill,
-  RiArrowRightUpLine,
-} from "react-icons/ri";
+import { RiArrowRightUpLine } from "react-icons/ri";
 import { Link as Scrollink } from "react-scroll";
 import Logo from "./Logo";
 import NavMobile from "./NavMobile";

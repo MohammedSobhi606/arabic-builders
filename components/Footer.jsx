@@ -48,7 +48,7 @@ export default function Footer() {
           </div>
           {/* newsletter */}
           <div className="flex-1 text-border">
-            <h4 className="h4 text-white! mb-10">Newdletter</h4>
+            <h4 className="h4 text-white! mb-10">Newsletter</h4>
             <p className="mb-9">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Exercitationem obcaecati, minima accusamus quos eligendi laborum
