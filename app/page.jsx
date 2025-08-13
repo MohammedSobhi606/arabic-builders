@@ -27,7 +27,7 @@ export default function Home() {
   }, []);
 
   return (
-    <main>
+    <main className="overflow-hidden">
       <TopBar />
       {/* static header */}
       <div className="relative z-10">
